@@ -6,6 +6,7 @@ This repository is a collection of self-contained *dockerizers* for some necessa
 
 * **[Octave](https://github.com/geoem/dockerize/tree/master/octave)** - Lightweight image of Octave 4.4.1
 * **[OpenSEES](https://github.com/geoem/dockerize/tree/master/opensees)** - Lightweight image of latest OpenSEES
+* **[PHP](https://github.com/geoem/dockerize/tree/master/php)** - Lightweight image of PHP version 7.1
 
 ### Author
 
